@@ -4,7 +4,7 @@ var $ = Ember.$;
 export default Ember.Route.extend({
   model: function() {
 
-    return $.ajax("/venues")
+    return Ember.$.ajax("http://www.bridgetowncomedy.com/venues/")
       .then(function(data) {
         return $(data).find("#jekyll-content").html();
     });

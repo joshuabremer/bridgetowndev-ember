@@ -3,7 +3,7 @@ var $ = Ember.$;
 
 export default Ember.Route.extend({
   model: function() {
-    return $.ajax("/contact")
+    return Ember.$.ajax("http://www.bridgetowncomedy.com/contact")
       .then(function(data) {
         return $(data).find("#jekyll-content").html();
     });
