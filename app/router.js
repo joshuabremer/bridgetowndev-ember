@@ -18,4 +18,15 @@ Router.map(function() {
   this.route('contact');
 });
 
+Router.reopen({
+  notifyGoogleAnalytics: function() {
+    try {
+    return ga('send', 'pageview', {
+        'page': this.get('url'),
+        'title': this.get('url')
+      });
+  } catch(e) {}
+  }.on('didTransition')
+});
+
 export default Router;
