@@ -9,7 +9,7 @@ export default Ember.Route.extend({
 
     return Ember.$.ajax( host + "/")
       .then(function(data) {
-        return $(data).find("#jekyll-content").html();
+        return Ember.$(data).find("#jekyll-content").html();
     });
   },
 
