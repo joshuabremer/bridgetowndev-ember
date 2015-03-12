@@ -16,12 +16,13 @@ Router.map(function() {
   this.route('press');
   this.route('sponsors');
   this.route('contact');
+  this.route('four_oh_four', { path: '/*path' });
 });
 
 Router.reopen({
   notifyGoogleAnalytics: function() {
     try {
-    return ga('send', 'pageview', {
+    return window.ga('send', 'pageview', {
         'page': this.get('url'),
         'title': this.get('url')
       });
