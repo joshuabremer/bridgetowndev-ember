@@ -1,4 +1,4 @@
-
+/*jshint -W100 */
 export default [
  {
   "Name": "Dr. Katz, Professional Therapist: a 20th Anniversary Celebration",
@@ -23,12 +23,23 @@ export default [
   "events": []
  },
  {
+  "Name": "Baked",
+  "Copy": "Baked is an evening of music and comedy hosted by Brendon Small (Metalocalypse, Home Movies) and Steve Agee (The Sarah Silverman Program, New Girl, Adventure Time) and an incredibly talented band including Joe Travers (Zappa Plays Zappa, Mike Keneally Band), Pete Griffin (Zappa Plays Zappa, Dethklok), and Mike Keneally (Mike Keneally Band)*. After a yearlong residency at LA&#039;s world famous jazz club The Baked Potato, Baked travels north to force its musical and comedic ethos onto the inhabitants of Portland and ultimately destroy their brains. Join us for a show in which comics are encouraged to perform in a musical capacity after a set of standup comedy.\r\n\r\n*band lineup subject to change",
+  "Bio": "Baked is an evening of music and comedy hosted by Brendon Small (Metalocalypse, Home Movies) and Steve Agee (The Sarah Silverman Program, New Girl, Adventure Time) and an incredibly talented band including Joe Travers (Zappa Plays Zappa, Mike Keneally Band), Pete Griffin (Zappa Plays Zappa, Dethklok), and Mike Keneally (Mike Keneally Band)*. After a yearlong residency at LA&#039;s world famous jazz club The Baked Potato, Baked travels north to force its musical and comedic ethos onto the inhabitants of Portland and ultimately destroy their brains. Join us for a show in which comics are encouraged to perform in a musical capacity after a set of standup comedy.\r\n\r\n*band lineup subject to change",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/baked_square.jpg",
+  "SubmittedId": "10371",
+  "Position": "3",
+  "id": "10371",
+  "pageUrl": "10371-baked",
+  "events": []
+ },
+ {
   "Name": "7 Minutes in Purgatory",
   "Copy": "Seven Minutes in Purgatory is a high-concept comedy show that has been hailed as an “outrageous experiment” by the Chicago Tribune. Host and co-creator of Seven Minutes in Purgatory, Ian Abramson, challenges comedians to perform their material to a camera alone in a soundproof room. Audience members will watch a live feed of the comedians, as they awkwardly and hilariously attempt to perform without knowing the crowd&#039;s reaction.\r\n\r\n\r\n",
   "Bio": "What happens when a comedian doesn&#039;t know how the audience is responding? Seven Minutes in Purgatory challenges comedians to perform a tight seven minute set in a soundproof room while the audience watches a live stream of their set.\r\n\r\nSeven Minutes in Purgatory isolates performers from any type of audience feedback, offering audiences a chance to witness stand-up comics attempting to do their act without the benefit of knowing how they&#039;re doing. In eliminating one of the essential elements of traditional live comedy, Seven Mintues In Purgatory amplifies the comics&#039; neuroses, giving fans a different perspective on their favorite performers. The live-streamed element gives performers the chance to experiment within these newfound conceptual constraints. At past shows, performers have called audience members to check in on how their set&#039;s going, staged fights with audience plants, and auditioned for appearances on The Voice. \r\n\r\nWe&#039;ve taken Seven Minutes in Purgatory on the road this year, to Atlanta&#039;s Laughing Skull Lounge in September, as well as a two week tour of the Midwest in November, staging pop-up shows in Denver, Omaha, St. Louis, and Kansas City. The show has been featured in The A.V. Club, Chicago Tribune, and the Chicago Reader, and has sold out every Chicago show to date.\r\n\r\nSeven Minutes in Purgatory was created by Ian Abramson, who was recently named Chicago&#039;s best Experimental Comedian by Chicago Magazine and has been described as &quot;one of the smartest, weirdest and funniest guys on the scene&quot; by the Chicago Tribune, and Matt Byrne, a Chicago-based comedy producer who recently co-founded the Comedy Exposition, a stand-up comedy festival in Chicago. Matt also runs The Steamroller, a blog about Chicago&#039;s comedy scene.",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/poster_by_j_michael_osborne.jpg",
   "SubmittedId": "9113",
-  "Position": "3",
+  "Position": "4",
   "id": "9113",
   "pageUrl": "9113-7-minutes-in-purgatory",
   "events": []
@@ -39,7 +50,7 @@ export default [
   "Bio": "The CrabFeast is a podcast hosted by comedians Ryan Sickler and Jay Larson.  The show focuses on storytelling with new episodes every Toozdee.\r\nThe chemistry between Ryan and Jay enables them to take the conversation anywhere, often making light of some heavier subjects.  They make their guests feel like family and their listeners feel like they’re sitting around sharing stories with old friends. \r\nPart of the All Things Comedy family, they’ve appeared on Ovation’s ‘The Art of Comedy’, TBS&#039;s ‘The Pete Holmes Show’, Live at the LA Podfest, The Damon Bruce Radio Show and were finalists in the 2013 Stitcher Awards for Best Comedy Podcast.  \r\nPull up a chair, grab a coupla cold ones and celebrate the things that Ryan and Jay love most — storytelling, family, friends and comedy.\r\n\r\n#FTCF *****\r\n",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/2014_crabfeast_atc_logo_black.jpg",
   "SubmittedId": "9639",
-  "Position": "4",
+  "Position": "5",
   "id": "9639",
   "pageUrl": "9639-the-crabfeast-podcast",
   "events": []
@@ -50,7 +61,7 @@ export default [
   "Bio": "Comedians compete writing and performing Erotic Fan Fiction pieces, based upon their whims or audience suggestion. It’s really stupid.",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/ceff_podcast_logo.jpg",
   "SubmittedId": "10344",
-  "Position": "5",
+  "Position": "6",
   "id": "10344",
   "pageUrl": "10344-competitive-erotic-fan-fiction",
   "events": []
@@ -61,7 +72,7 @@ export default [
   "Bio": "The K Ohle is a multi-format podcast hosted by comedian Kurt Braunohler. FORMATS INCLUDE (but are not limited to): The Boat Show – &quot;The Best Non-Boating Boat Show on the Internet&quot; -- Kurt and his guests talk at length about boating, a topic of which they have no knowledge. PETophilia – “The Animal Show for People Who Think Animals are Dumb” – guests get into it about their pets; plus, Animal Stories of the Week, Fact Animal Facts, and Who’s Dumber, the fun game the humiliates animals! Get Lost! – “This Feels a Bit Rape-y” - Every episode, Kurt takes a guest into his car, blindfolds them, drives them somewhere they’ve never been, and they have to figure out where they are and how they’d get back. And they have some chats along the way. FactTime - Kurt and co-host Matt Oberg unpack and investigate improvised stories from comedians while applying faulty scientific theories in a very produced and tightly edited format. If you love Radiolab, you&#039;ll love FactTime.",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/k-ohle.jpg",
   "SubmittedId": "10320",
-  "Position": "6",
+  "Position": "7",
   "id": "10320",
   "pageUrl": "10320-the-k-ohle-with-kurt-braunohler",
   "events": []
@@ -72,7 +83,7 @@ export default [
   "Bio": "Jackie Kashian discusses favorite obsessions with the obsessed. Video games, Comic Books, Birdwatching. How deep in the dork forest are you? Celebrate it and f*&amp;%$, make it your own! ",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/image.png",
   "SubmittedId": "10298",
-  "Position": "7",
+  "Position": "8",
   "id": "10298",
   "pageUrl": "10298-dork-forest-with-jackie-kashian",
   "events": []
@@ -83,7 +94,7 @@ export default [
   "Bio": "A standup showcase of some of the top, somewhat unknown to the mainstream, comics in North America. Hosted by Sean Jordan, and featuring sketch by Phil Schallberger. ",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/funny-over.png",
   "SubmittedId": "10199",
-  "Position": "8",
+  "Position": "9",
   "id": "10199",
   "pageUrl": "10199-funny-over-everything",
   "events": []
@@ -94,7 +105,7 @@ export default [
   "Bio": "Comedians Phoebe Robinson &amp; Jessica Williams host this monthly stand up show based on the popular blog of the same name and the show features the best comics from all over the country.",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/jess_phoebe.jpeg",
   "SubmittedId": "10042",
-  "Position": "9",
+  "Position": "10",
   "id": "10042",
   "pageUrl": "10042-blaria",
   "events": []
@@ -105,7 +116,7 @@ export default [
   "Bio": "One part comedy show, two parts drinking game, Brew Haha is an interactive mix of standup comedy and your favorite pre-party ritual.  At the beginning of every show, the hosts tell fun stories from past parties and then introduce the crowd to a set of rules created specifically for that show.  When a comic, unbeknownst to them, breaks a rule, the audience drinks. A giant light-up “drink” sign will help the audience play along.  Examples of rules include, &quot;every time a comic uses a funny voice, or sings&quot;, &quot;every time a comic talks about a romantic relationship past or present&quot;, or &quot;every time a comic tries to guess a rule&quot;.  A second game, specifically for the performers, ensures that as the audience gets drunker, so do the comedians.",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/brewhaha_clean.jpg",
   "SubmittedId": "9710",
-  "Position": "10",
+  "Position": "11",
   "id": "9710",
   "pageUrl": "9710-brew-haha-the-comedy-show-drinking-game",
   "events": []
@@ -116,7 +127,7 @@ export default [
   "Bio": "Lighthearted, sex-positive and curiosity driven, I am always amazed at how brilliantly the podcast gives comedian ample material for laughs. Previously co-hosted with Dave Ross,  I explore a topic a week. While comedy leaning myself, I love playing an awkward straight man with naive questions to the many comedians who come on the show. \r\n\r\nFresh from 2 wonderfully successful shows at SF Sketchfest, one on multiple orgasms and the other on friends with benefits, I&#039;m hoping to do something that even further highlights comedians. I&#039;ve been wanting to do a show on urban dictionary terms (slightly @midnigh-like) or interview a Portland sex club manager with the help of a few comics. \r\n\r\nI just think it would be silly fun. Plus last time I was there we sold out Dante&#039;s, so I know I have an audience at Bridgetown. Thanks for considering!",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/sandra_shocked_final.jpg",
   "SubmittedId": "10203",
-  "Position": "11",
+  "Position": "12",
   "id": "10203",
   "pageUrl": "10203-nerdists-sex-nerd-sandra-podcast",
   "events": []
@@ -127,7 +138,7 @@ export default [
   "Bio": "The Hound Tall discussion series is a live podcast, hosted by Moshe Kasher, that takes a single topic and figures out the mysteries of the universe. An hour long chat with an expert and a panel of comedians, they learn all there is to know about things. And also laugh at them.",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/hound_tall.jpeg",
   "SubmittedId": "10291",
-  "Position": "12",
+  "Position": "13",
   "id": "10291",
   "pageUrl": "10291-hound-tall-discussion-series-with-moshe-kasher-",
   "events": []
@@ -138,9 +149,20 @@ export default [
   "Bio": "&quot;Beloved comedian Guy Branum hosts the ultimate test of banter in a thrilling combination of America’s two least respected television formats. Three guests face off to prove who’s the best talk show guest by plugging, name-dropping, and anecdoteing their way to victory. &quot;\r\n\r\nAs far as show format, it&#039;s a 60-90 minute show. Guy hosts and does a quick monologue, scorekeeper and judges are introduced, and then one guest comes out at a time for a timed interview/competition round. After all 3 guests have been interviewed/competed, the last round is a lightning round of question answering and the winner is revealed. \r\n\r\nSo could use 3 comics that will already be up there, and even judges as I&#039;m sure some of the people going have done the show before in LA or NY. Scorekeeper is usually Whitmer Thomas or Jay Weingarten but I assume any younger adorable comedian that Guy can lovingly objectify while they keep tally will suffice.",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/guy_branum-_ts_tgs_promo.jpg",
   "SubmittedId": "10212",
-  "Position": "13",
+  "Position": "14",
   "id": "10212",
   "pageUrl": "10212-talk-show-the-game-show",
+  "events": []
+ },
+ {
+  "Name": "Probably Science",
+  "Copy": "The hit podcast in which three professional comedians who are also incompetent scientists take you through this week in science. Incompetently. Featuring Matt Kirshen (Jimmy Fallon, Craig Ferguson, Nerdist, Last Comic Standing), Andy Wood (Jason Nash Is Married, MOCKpocalypse), Jesse Case (Just For Laughs, Live At Gotham, Last Comic Standing), with special guests from the world of science and comedy.\r\n\r\nPast guests have included Chris Hardwick, Karen Gillan, Rhys Darby, Peter Serafinowicz, Gallagher (sorry about that one), The Sklar Brothers and TJ Miller, not to mention actual scientists such as Dr. Sean Carroll and Dr. Janna Levin and astronaut Chris Hadfield.\r\n\r\nIt&#039;s the most topical, up-to-date, half-assed science, delivered straight to you in bite-sized comedy chunks.",
+  "Bio": "The hit podcast in which three professional comedians who are also incompetent scientists take you through this week in science. Incompetently. Featuring Matt Kirshen (Jimmy Fallon, Craig Ferguson, Nerdist, Last Comic Standing), Andy Wood (Jason Nash Is Married, MOCKpocalypse), Jesse Case (Just For Laughs, Live At Gotham, Last Comic Standing), with special guests from the world of science and comedy.\r\n\r\nPast guests have included Chris Hardwick, Karen Gillan, Rhys Darby, Peter Serafinowicz, Gallagher (sorry about that one), The Sklar Brothers and TJ Miller, not to mention actual scientists such as Dr. Sean Carroll and Dr. Janna Levin and astronaut Chris Hadfield.\r\n\r\nIt&#039;s the most topical, up-to-date, half-assed science, delivered straight to you in bite-sized comedy chunks.",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/probablysciencesallyart.jpg",
+  "SubmittedId": "10372",
+  "Position": "15",
+  "id": "10372",
+  "pageUrl": "10372-probably-science",
   "events": []
  },
  {
@@ -149,7 +171,7 @@ export default [
   "Bio": "Comedian Dana Gould takes a look at our world… through his eyes… for your benefit. Joined by fellow comedians and other interesting people with a focus on the weird and the real. Conversation. Music. Monologues. ",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/dghs04e01_360.jpg",
   "SubmittedId": "10347",
-  "Position": "14",
+  "Position": "16",
   "id": "10347",
   "pageUrl": "10347-the-dana-gould-hour",
   "events": []
@@ -160,7 +182,7 @@ export default [
   "Bio": "We get a real guy from OkCupid and set him up on three blind dates with three real ladies from OkCupid - all live on stage. Amanda and Eli (and the audience) coach the guy through the awkwardness and obstacles of each date. As a bonus, each date is interrupted by some fictional character from the guys&#039;s past who just happens to be in the restaurant. \r\n\r\nThe OkCupid Show has been running at UCB for almost four years now and we are currently working with Sony to develop it for TV.\r\n\r\nThis show is reality tv on stage. It is weird and awkward and intense and super hilarious. A funny car crash you can&#039;t stop watching.",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/okc_blank_1.jpg",
   "SubmittedId": "10220",
-  "Position": "15",
+  "Position": "17",
   "id": "10220",
   "pageUrl": "10220-the-okcupid-show",
   "events": []
@@ -171,7 +193,7 @@ export default [
   "Bio": "Hi . \r\n\r\n  I&#039;ve been thinking about doing my show Heart of Darkness at Bridgetown for a few months now.  I think it would be a very perfect fit. \r\n\r\nEach show has a guest speaker we call a &#039;Mind Warrior&#039;, 2-3 comedians and a musical guest. In the past we&#039;ve had Mind Warriors  Graham Hancock,  Heather Berlin Ph.D, Dennis Mckenna ,  Andrew W.K., Daniel Pinchbeck and many more, as well as comedians Janeane Garofalo, Jim Gaffigan and Reggie Watts, Chelsea Peretti, Fred Armisen, Jim Gaffigan, Michael Showalter among many others.   The show is a themed variety show featuring 3 comics, a scientist and a musical guest with a house band and me hosting. The audience is also very involved: we bring an audience member on stage to sit in the &#039;I love you chair&#039; and at the end of the show we forgive everyone for their sins getting as many as we can by going into the audience.  I&#039;ll book comics that will already be coming to Bridgetown and contact a few local bands. I&#039;ve performed in Portland a decent amount of times and know musicians and am confident it would be easy to pull off. \r\n\r\nThe show is a way for artists and audience members to participate and collaborate in ideas and experience something that will only happen once.  \r\n\r\nI just did one at the Brooklyn Museum and will be in LA this Feb to do the Cinefamily and then the Hollywood Improv in March.  \r\n\r\nI would really love to do as many as I could in Bridgetown.  it would be most most excellent.  \r\n\r\nlove,\r\nGreg\r\n\r\n\r\n",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/10562479_10152679710938934_1004616428426174128_o.jpg",
   "SubmittedId": "9933",
-  "Position": "16",
+  "Position": "18",
   "id": "9933",
   "pageUrl": "9933-heart-of-darkness",
   "events": []
@@ -182,18 +204,18 @@ export default [
   "Bio": "Based in Denver, Colorado the Grawlix consists of comics Adam Cayton-Holland, Andrew Orvedhal and Ben Roy. The three of us host the show with a sketch up top - sweet, sweet banter between the three of us - and then some standup with a video or two thrown in for good measure. After much experimentation we&#039;ve found that the up-front with the three of us, then a video, then pretty much a stand-up show after that (with the three of us taking turns MCing, usually with some running through-line we conceive on the fly) is the best way to pull this show off. We&#039;ve done The Grawlix at Bridgetown before, as well as SXSW, The New York Comedy Festival, Riot LA and the High Plains Comedy Festival. We also just filmed a pilot for TRU TV and by the time Bridgetown rolls around we could very well have had that pilot picked up so we&#039;ll be MEGA HUGE STARTS BUT STILL WITH HUMBLE ATTITUDES AND GOOD TIME VIBES. ",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/grawlixomaha.jpg",
   "SubmittedId": "10111",
-  "Position": "17",
+  "Position": "19",
   "id": "10111",
   "pageUrl": "10111-the-grawlix",
   "events": []
  },
  {
   "Name": "Hecklevision",
-  "Copy": "The 1995 film &quot;Hackers&quot; introduced audiences to a fantastical view of cyber crimes, phone phreaking and general tech-tomfoolery. In this cult classic techno-thriller, Jonny Lee Miller, Angelina Jolie and Matthew Lillard take on the villainous exploits of Fisher Stevens, Lorraine Bracco and Penn Jillette to save hackers and phreakers from being framed for environmental terrorism and financial fraud. Can they save the world with a P6 chip and a payphone? \r\n\r\nThis special screening is presented in HECKLEVISION: Through the magic of MuVChat technology, your jokes, heckles and commentary are encouraged - in TEXT form! Tap out your wittiest wisecracks with your phone and they&#039;ll appear instantly on screen. Special guests [to be determined] will hang out to crack jokes via text with you and a few hundred of your best friends!\r\n\r\nBe at the Hollywood Theatre on [date and time] to experience this ridiculous and unique event!",
+  "Copy": "This special film screening is presented in HECKLEVISION: Through the magic of MuVChat technology, your jokes, heckles and commentary are encouraged - in TEXT form! Tap out your wittiest wisecracks with your phone and they&#039;ll appear instantly on screen. Special guests [to be determined] will hang out to crack jokes via text with you and a few hundred of your best friends! ",
   "Bio": "Hey folks! I&#039;d love to feature a Hecklevision screening as part of Bridgetown 2015. I want to go back to the film that started it all for me: HACKERS. (But I&#039;m also open to suggestions!)\r\n\r\nHecklevision is a top secret technology that allows you to use your cellphone to text heckles, jokes and commentary to a special number that displays your comments on screen instantly as the movie plays. My personal tweak on the format is inviting special guests - we feature comedians and have worked with the software developer to add an option to make sure the jokes/comments from our &quot;VIP&quot; guests stand out.\r\n\r\nWe generally choose movies that are cheesy, bizarre and awful but we still love to watch (and probably saw on cable many many times growing up). Highlights have been films like HACKERS, ROCKY IV, OVER THE TOP, SPACE JAM, etc. We even had a hell of a lot of fun with ROBOCOP, although that one is close to my heart. Generally we get close to 100 attendees.\r\n\r\nThis would be a great low-pressure show and a really cool opportunity for me to introduce out-of-towners to Hecklevision, which I plan to program for the Alamo Drafthouse when it opens in LA, too. \r\n\r\nNOTE - Photo I uploaded is the old poster, but an example of what I would produce for this one.",
-  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/hecklevision-july-poster-v2.jpg",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/hecklevision-bridgetown.jpg",
   "SubmittedId": "9492",
-  "Position": "18",
+  "Position": "20",
   "id": "9492",
   "pageUrl": "9492-hecklevision",
   "events": []
@@ -204,7 +226,7 @@ export default [
   "Bio": "The Tinkle Twins stars Dana Gould (The Simpsons, Mob City) and Arden Myrin (Chelsea Lately, Orange Is the New Black) as douchey identical twins. It is a monthly show at Nerdmelt Showroom at Meltdown Comics in Los Angeles. The Tinkle Twins have no idea that the fact that they are a man and a woman, are different ages and have different parents would make it impossible for them to be exact replicas of one another. The Twins host a jacked-up fake kids show with stand up guests, characters and music. The twins set the joyful creepy mood for the first 30 minutes of the show. Eddie Pepitone plays the arch nemesis of the Tinkle Twins. He hates Arden the most.",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/tinkle.jpg",
   "SubmittedId": "10325",
-  "Position": "19",
+  "Position": "21",
   "id": "10325",
   "pageUrl": "10325-the-tinkle-twins-with-arden-myrin-and-dana-gould",
   "events": []
@@ -215,18 +237,18 @@ export default [
   "Bio": "Open Mike Eagle is an L.A. based hip-hop artist. On Secret Skin, he and his guests examine what’s really going on behind the face that comics and hip-hop artists put on for the public. The in-jokes. The heavy stuff. The tour stories. The day-to-day struggles and absurdities of being a working musician. The Secret Skin.\r\n\r\nDeveloping from the Mike Eagle variety shows that took place in LA, Seattle, San Francisco, New York, and Atlanta, Mike Eagle&#039;s Secret Skin Live combines the comedy and rap performances of his live show with a quick-fire interview format that allows each performer to illuminate their story in a way that their peformance might not allow. Interviews are edited together to create special live episodes of the Secret Skin podcast\r\n\r\npast stand up guests: Hannibal Buress, James Adomian, Cameron Esposito, Chris Gethard, Baron Vaughn, Greer Barnes and many more\r\n",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/tumblr_ndptbthiaq1qetalto1_500.jpg",
   "SubmittedId": "10230",
-  "Position": "20",
+  "Position": "22",
   "id": "10230",
   "pageUrl": "10230-the-mike-eagle-showsecret-skin-live",
   "events": []
  },
  {
   "Name": "Roustabout",
-  "Copy": "A night of awe-inspiring stupidity with Kurt Braunohler. ",
-  "Bio": "A night of awe-inspiring stupidity with Kurt Braunohler. ",
-  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/kurtbraunohler_credit_mandee_johnson_main.jpg",
+  "Copy": "Kurt Braunohler&#039;s brand of comedy could be described as &quot;high-energy absurdity from an approachable stranger&quot; but he prefers to describe his brand as &quot;Doritos&quot;.\r\n\r\nKurt was named a &quot;Comic To Watch&quot; by Variety, Time Out NY, Time Out LA, Comedy Central, and the NY Comedy Festival.  On TV, Kurt has been seen on CONAN, The Tonight Show, Delocated, Comedy Central Presents, BUNK, John Oliver Presents, @Midnight, Chelsea Lately, Bob&#039;s Burgers, New Girl, Drunk History, Getting Doug with High, Adam Devine&#039;s House Party and more.\r\n\r\nKurt rode a jet ski from Chicago to New Orleans on a seven city water tour/ charity mission to send 500 goats and 1,000 chickens to families in need in Africa. The adventure was filmed by Comedy Central and Kurt&#039;s nine episode &quot;Roustabout&quot; webseries is now availble on cc.com.   \r\n\r\nHis debut comedy album How Do I Land? made AV Club, Paste Magazine, Village Voice, and Time Out New York&#039;s  Best Of lists.   His popular podcast &quot;The K Ohle&quot; airs weekly on the Nerdist Network.",
+  "Bio": "Kurt Braunohler&#039;s brand of comedy could be described as &quot;high-energy absurdity from an approachable stranger&quot; but he prefers to describe his brand as &quot;Doritos&quot;.\r\n\r\nKurt was named a &quot;Comic To Watch&quot; by Variety, Time Out NY, Time Out LA, Comedy Central, and the NY Comedy Festival.  On TV, Kurt has been seen on CONAN, The Tonight Show, Delocated, Comedy Central Presents, BUNK, John Oliver Presents, @Midnight, Chelsea Lately, Bob&#039;s Burgers, New Girl, Drunk History, Getting Doug with High, Adam Devine&#039;s House Party and more.\r\n\r\nKurt rode a jet ski from Chicago to New Orleans on a seven city water tour/ charity mission to send 500 goats and 1,000 chickens to families in need in Africa. The adventure was filmed by Comedy Central and Kurt&#039;s nine episode &quot;Roustabout&quot; webseries is now availble on cc.com.   \r\n\r\nHis debut comedy album How Do I Land? made AV Club, Paste Magazine, Village Voice, and Time Out New York&#039;s  Best Of lists.   His popular podcast &quot;The K Ohle&quot; airs weekly on the Nerdist Network.",
+  "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/roustabout-title-logo.png",
   "SubmittedId": "10319",
-  "Position": "21",
+  "Position": "23",
   "id": "10319",
   "pageUrl": "10319-roustabout",
   "events": []
@@ -237,7 +259,7 @@ export default [
   "Bio": "Formerly known as &quot;Comics Against Civility&quot;, this comedy game show is loosely based on Cards Against Humanity. Four comedians create decks of 20 offensively hilarious ideas (&quot;Subjecting white people to actual suffering.&quot; or &quot;A burka for your fleshlight.&quot;) to answer audience cards suggested before the show. Audience members win prizes and serve as judge and jury to see which card is truly the worst (read: best) of the round. At the end of the 30 minute round, there&#039;s one final opportunity to wager points and determine which member of the panel is the most &quot;Uncalled Four&quot;. Each game opens with a stand-up portion featuring all performers. Please note that all social media and website accounts are currently being updated after receiving a nice cease and desist from Cards Against Humanity. Our legal team has assured us our new format is 100% legal.",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/uncalled_four_logo.png",
   "SubmittedId": "9936",
-  "Position": "22",
+  "Position": "24",
   "id": "9936",
   "pageUrl": "9936-uncalled-four",
   "events": []
@@ -248,7 +270,7 @@ export default [
   "Bio": "Variety show with music, comedy and one part x-factor.",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/meet-me-under-the-misteltoe-8335.jpg",
   "SubmittedId": "10045",
-  "Position": "23",
+  "Position": "25",
   "id": "10045",
   "pageUrl": "10045-meet-me-in-the-bathroom-and-tell-me-all-your-secrets",
   "events": []
@@ -259,7 +281,7 @@ export default [
   "Bio": "The Nickel Club is a theme show in LA that promises audience members an immersive night of comedy, jazz, and fun. Each show starts with the audience being ushered into the world of &quot;The Nickel Club&quot;, the world&#039;s premiere secret society. Like a 1920s speakeasy, as the audience arrives, they give the password to &#039;the bouncer&#039; (played by a comic), they are led into the secret venue by lantern (venue dependent) where they will find the producers in character and dressed to the 9&#039;s as a live jazz band plays classic tunes. To begin the show, the hosts &quot;initiate&quot; the audience into the Nickel Club, a society that has been around as long as time. Then, the comedy show starts, which is their reward for being part of this exclusive secret society. The comics then do sets where they can play along with the jazz band. Some ask them to punctuate jokes, others ask them to do nothing, others still have the band play sweet melodies behind a story or a joke.  After the show, time permitting, the band plays and people enjoy the rest of their night.",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/nickel1.jpg",
   "SubmittedId": "9781",
-  "Position": "24",
+  "Position": "26",
   "id": "9781",
   "pageUrl": "9781-the-nickel-club",
   "events": []
@@ -270,7 +292,7 @@ export default [
   "Bio": "This show is a ton of fun and fairly unique. It&#039;s not snarky at all. We show a real reverence for the shows of our youth and peel back life experiences to discuss living situations and the shared experience of classic television. It&#039;s a fun conversation and a nice change from stand up.\r\n\r\nUnlike other Stand up comedian fronted podcasts, this one doesn&#039;t focus too much on the mechanics of comedy. Although I&#039;ve only been doing the show a year, we&#039;re getting about 10k downloads a month all over the world. I&#039;ve also had some experience with doing live editions as we&#039;ve done them now at New York Super Week/New York ComicCon (with Amy Sedaris), North East Comic Con (with Evan Michaelson from Oddieis/Obscura Antiques), The Boston Comedy Festival (with Emmanuel Lewis of Webster) and will have done one at Riot LA in January (guest TBA, I know who it is, but don&#039;t want to jinx it, nice big name).\r\n\r\nI have a unique knowledge of television and revisiting a specific week of our lives always leads to some fun tangents and interesting insights from my guests.\r\n\r\nI own every issue of TV Guide, and review them frequently. It&#039;s a life long passion and it&#039;s interesting to see how people form all different backgrounds share an early love of television. ",
   "PhotoUrl": "http://bridgetown.festivalthing.com/sites/default/files/images/show-submissions/kentvgc_0.jpg",
   "SubmittedId": "9240",
-  "Position": "25",
+  "Position": "27",
   "id": "9240",
   "pageUrl": "9240-tv-guidance-counselor",
   "events": []
