@@ -4,11 +4,11 @@ var stripBom = require('strip-bom');
 var util = require( "./utilities" );
 
 function FestivalData() {
-  this.tmpEventsPath = "./tmp/events.json";
-  this.tmpPerformersPath = "./tmp/performers.json";
-  this.tmpSchedulePath = "./tmp/schedule.json";
-  this.tmpShowsPath = "./tmp/shows.json";
-  this.tmpVenuesPath = "./tmp/venues.json";
+  this.tmpEventsPath = "./public/events.json";
+  this.tmpPerformersPath = "./public/performers.json";
+  this.tmpSchedulePath = "./public/schedule.json";
+  this.tmpShowsPath = "./public/shows.json";
+  this.tmpVenuesPath = "./public/venues.json";
 }
 
 FestivalData.prototype.getEventObject = function() {
