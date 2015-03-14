@@ -16,6 +16,19 @@ PerformerBuilder = ObjectBuilder.extend({
 
   normalizeData: function() {
     var performerObj = festivalData.getPerformerObject();
+
+
+    for (var key in performerObj) {
+      // Delete PLACE HOLDER
+      if ( performerObj[key].Name === "PLACE HOLDER" ) {
+        var index = performerObj.indexOf( performerObj[key] );
+        if (index > -1) {
+          performerObj.splice(index, 1);
+        }
+        continue;
+      }
+    }
+
     for (var key in performerObj) {
       performerObj[key].id = performerObj[key].PerformerId;
 
