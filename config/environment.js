@@ -22,7 +22,7 @@ module.exports = function(environment) {
       'default-src': "'none'",
       'script-src': "'self' 'unsafe-inline' 'unsafe-eval' use.typekit.net connect.facebook.net maps.googleapis.com maps.gstatic.com *.twitter.com *.twimg.com",
       'font-src': "'self' data: use.typekit.net fonts.gstatic.com netdna.bootstrapcdn.com",
-      'connect-src': "'self'",
+      'connect-src': "'self' www.bridgetowncomedy.com",
       'img-src': "'self'  data: www.facebook.com p.typekit.net *.twimg.com *.twitter.com",
       'style-src': "'self' 'unsafe-inline' use.typekit.net fonts.googleapis.com netdna.bootstrapcdn.com *.twitter.com",
       'frame-src': "s-static.ak.facebook.com static.ak.facebook.com www.facebook.com *.twitter.com",
