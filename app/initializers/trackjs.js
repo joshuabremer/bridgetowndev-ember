@@ -8,7 +8,6 @@ export default {
   initialize: function() {
     // Log Emberjs errors to TrackJS
     Ember.onerror = function(error){
-      console.log("error")
       if(window.trackJs) {
         window.trackJs.track(error);
       }
