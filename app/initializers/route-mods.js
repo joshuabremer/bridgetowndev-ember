@@ -1,5 +1,4 @@
 import Ember from 'ember';
-import $ from 'jquery';
 export function initialize(/* container, application */) {
   // application.inject('route', 'foo', 'service:foo');
 }
@@ -21,8 +20,8 @@ export default {
         }
       },
       deactivate: function() {
-        if ($(".navbar .navbar-collapse.collapse.in").length) {
-          $(".navbar-toggle").not(".collapsed").click();
+        if (Ember.$(".navbar .navbar-collapse.collapse.in").length) {
+          Ember.$(".navbar-toggle").not(".collapsed").click();
         }
       },
       loadAllData: function() {
@@ -31,6 +30,20 @@ export default {
           events: this.store.find('event'),
           performers: this.store.find('performer'),
           shows: this.store.find('show')
+        });
+      },
+
+      _getLocalHtml: function( pageUrl ) {
+        var host = "http://www.bridgetowncomedy.com";
+        if ( window.location.host === "localhost:4000" ) {
+          host = "http://localhost:4000";
+        }
+        return Ember.$.ajax({
+          url: host + pageUrl,
+          dataType: "html"
+        })
+          .then(function(data) {
+            return Ember.$(data).find("#jekyll-content").html();
         });
       }
     });
