@@ -206,6 +206,27 @@ h6,
   }
 }
 
+// SHOWS
+
+.show-box {
+  img {
+    border:2px solid #999;
+  }
+  legend {
+    height: 6em;
+    overflow: hidden;
+    border:0;
+    text-align:left;
+    font-size: 16px;
+  }
+}
+
+.single-show {
+  .show-headshot {
+    border:2px solid #999;
+  }
+}
+
 // SPONSORS
 
 .sponsors-container {

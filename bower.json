@@ -15,5 +15,9 @@
     "spinjs": "~2.0.2",
     "moment": "~2.9.0",
     "jquery.lazyload": "~1.9.4"
+  },
+  "devDependencies": {
+    "es5-shim": "~4.1.0",
+    "console-polyfill": "~0.2.1"
   }
 }
